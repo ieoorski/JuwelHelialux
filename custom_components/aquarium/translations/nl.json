@@ -1,0 +1,21 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "description": "Voer uw gegevens in",
+          "title": "Enter host",
+          "data": {
+            "host": "Host"
+          }
+
+        }
+      },
+      "abort": {
+        "already_configured": "already_configured"   },
+      "error": {
+        "AquariumConnectionError": "AquariumConnectionError",
+            "unknown": "unknown"
+      }
+
+    }
+  }

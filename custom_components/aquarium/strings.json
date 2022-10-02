@@ -1,0 +1,22 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "description": "Voer uw gegevens in",
+          "title": "Enter host",
+          "data": {
+            "host": "[%key:common::config_flow::data::host%]"
+          }
+
+        }
+      },
+      "abort": {
+        "already_configured": "[%key:common::config_flow::abort::already_configured_account%]"
+      },
+      "error": {
+        "AquariumConnectionError": "[%key:common::config_flow::error::cannot_connect%]",
+        "unknown": "[%key:common::config_flow::error::unknown%]"
+      }
+
+    }
+  }
