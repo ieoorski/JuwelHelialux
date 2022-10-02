@@ -1,5 +1,5 @@
 {
-  "domain": "aquarium",
+  "domain": "juwel_helialux",
   "name": "Juwel HeliLux SmartControl ",
   "config_flow": true,
   "version": "0.1",
