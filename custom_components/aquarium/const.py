@@ -1,5 +1,5 @@
 COORDINATOR = "coordinator"
-DOMAIN = "aquarium"
+DOMAIN = "juwel_helialux"
 DATA_COORDINATOR = "coordinator"
 AQUARIUM_SENSOR_LIST = {
     "cstime": [
